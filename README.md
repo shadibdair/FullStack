@@ -2,7 +2,7 @@
 
 # JAVA 822.104
 ***
-#### Contact mail: anakarpf6@gmail.com
+#### Contact mail: bdairshadi@gmail.com
 ***
 <h4><a href="https://gist.github.com/AnnaKarpf/bdd64a84eb313a357b768e957d30f32a"> Useful links to our java group</a></h4>
 
